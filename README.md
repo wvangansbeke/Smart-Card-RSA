@@ -1,8 +1,8 @@
 # Smart-Card-RSA
 
 In this report the design of a digital platform is explained. The goal is to design a smart
-card IC. These cards are used for identication and nancial purposes, so security is key. For
-this reason smart cards contain an embedded processor and a cryptographic co-processor to
+card IC. These cards are used for identification and financial purposes, so security is key. For
+this reason, smart cards contain an embedded processor and a cryptographic co-processor to
 prevent abuse. To design such a digital platform, a good cooperation between integrated cir-
 cuit designers and application designers is necessary. Hardware/software co-design is crucial
 since there are different trade-offs to be made: 
