@@ -2,7 +2,7 @@
 `timescale 1ns / 1ps
 
 /*
-Assignment:
+Goals:
 1. Use this testbench (tb) to verify the correctness of your adder
     You can start the simulation by pressing the buttons on the left-hand: Simulation | Run Simulation
 2. Implement a multi-precision adder in adder.v
