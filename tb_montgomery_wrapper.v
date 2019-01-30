@@ -121,8 +121,7 @@ module tb_montgomery_wrapper#
         #`RESET_TIME
         #1;
 
-        /**************Do not make any changes to the code above this line*********/
-        /* Your task: Design a testbench to test your montgomery_wrapper using port1_write, port2_read, bram_write, and bram_read
+        /* The montgomery_wrapper uses port1_write, port2_read, bram_write, and bram_read
         
         /**********************START example command 1*********************/  
         /**************************Example 1*****************************/
